@@ -50,7 +50,7 @@ content:
         position: center
         color: '#333'
         brightness: 0.3
-        media: icon.png
+        media: pipeline_api.png
       link:
         icon: book
         icon_pack: fas
