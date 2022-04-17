@@ -17,14 +17,14 @@ design:
 
 content:
   slides:
-    - title: 👋 Green machine learning
-      content: Reduce repetitions, reuse resources, and recycle models to build PyKale
+    - title: 👋 PyKale
+      content: A library built upon PyTorch for multimodal learning and transfer learning from multiple data sources
       align: center
       background:
         position: center
         color: '#666'
         brightness: 0.5
-        media: green_ml.png
+        media: pykale_logo.png
       link:
         icon: github
         icon_pack: fab
@@ -43,6 +43,19 @@ content:
         icon_pack: fas
         text: Try Colab Tutorial
         url: https://colab.research.google.com/github/pykale/pykale/blob/main/examples/digits_dann_lightn/tutorial.ipynb
+    - title: ♻️ Green machine learning
+      content: Reduce repetitions, reuse resources, and recycle models to build PyKale
+      align: center
+      background:
+        position: center
+        color: '#666'
+        brightness: 0.5
+        media: green_ml.png
+      link:
+        icon: browser
+        icon_pack: fas
+        text: Browse Examples
+        url: https://github.com/pykale/pykale/tree/main/examples
     - title: Pipeline-based API ⛓️
       content: 'Standardize all machine learning workflows into six steps'
       align: center
