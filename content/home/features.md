@@ -16,6 +16,10 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
+- description: Learn from data of multiple sources (modalities / domains) under one roof.
+  icon: multiple-inputs-svgrepo-com
+  icon_pack: "custom"
+  name: Multimodal/Transfer Learning
 - description: Separate code and configurations for non-programmers to configure systems without coding.
   icon: universal-access-solid
   icon_pack: "custom"
@@ -24,10 +28,6 @@ feature:
   icon: ai-platform-unified-svgrepo-com
   icon_pack: "custom"
   name: Unified Pipeline-based API
-- description: Learn from data of multiple sources (modalities / domains) under one roof.
-  icon: multiple-inputs-svgrepo-com
-  icon_pack: "custom"
-  name: Multimodal/Transfer Learning
 # - description: Deep embedding into the PyTorch ecosystem and being an official member of it.
 #   icon: camera-retro
 #   icon_pack: fas
