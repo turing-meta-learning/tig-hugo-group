@@ -24,7 +24,7 @@ content:
         position: center
         color: '#666'
         brightness: 0.5
-        media: icon.png
+        media: green_ml.png
       link:
         icon: github
         icon_pack: fab
@@ -37,7 +37,7 @@ content:
         position: center
         color: '#555'
         brightness: 0.4
-        media: icon.png
+        media: accessible_ml.png
       link:
         icon: chalkboard
         icon_pack: fas
