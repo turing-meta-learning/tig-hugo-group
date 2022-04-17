@@ -24,7 +24,7 @@ feature:
   icon: ai-platform-unified-svgrepo-com
   icon_pack: "custom"
   name: Unified Pipeline-based API
-- description: Learn from multiple modalities and domains/sources under one roof.
+- description: Learn from data of multiple sources (modalities / domains) under one roof.
   icon: multiple-inputs-svgrepo-com
   icon_pack: "custom"
   name: Multimodal/Transfer Learning
