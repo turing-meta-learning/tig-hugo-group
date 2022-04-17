@@ -20,10 +20,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-# interests:
-# - Deep Learning
-# - Medical Image Analysis
-# - Uncertainty Est.
+interests:
+- Deep Learning
+- Medical Image Analysis
+- Uncertainty Est.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

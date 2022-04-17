@@ -20,9 +20,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-# interests:
-# - Transfer Learning
-# - Brain/Cardiac Image Analysis
+interests:
+- Transfer Learning
+- Brain/Cardiac Image Analysis
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
