@@ -52,7 +52,7 @@ content:
         brightness: 0.5
         media: green_ml.png
       link:
-        icon: browser
+        icon: laptop-code
         icon_pack: fas
         text: Browse Examples
         url: https://github.com/pykale/pykale/tree/main/examples
