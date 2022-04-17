@@ -15,11 +15,11 @@ appearance:
 
 marketing:
   seo:
-    site_type: Person
+    site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Accessible machine learning from multiple sources for interdisciplinary research.'
+    twitter: 'haipinglu'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -32,7 +32,7 @@ marketing:
 header:
   navbar:
     enable: true
-    align: l
+    align: r
     show_logo: true
     show_language: false
     show_day_night: true
@@ -43,7 +43,7 @@ footer:
   copyright:
     notice: '© {year} Me. This work is licensed under {license}'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
@@ -70,9 +70,9 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/pykale/pykale'
     content_dir: content
-    branch: master
+    branch: main
   avatar:
     gravatar: false
     shape: circle
@@ -99,7 +99,7 @@ features:
 
 extensions:
   cms:
-    branch: master
+    branch: main
     local_backend: false
   isotope:
     # Enable if you use the Portfolio widget or Publication filter
