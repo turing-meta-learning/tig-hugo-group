@@ -11,7 +11,7 @@ design:
   # Automatically transition through slides?
   loop: true  # false
   # Duration of transition between slides (in ms)
-  interval: 6000
+  interval: 9000
 
 # https://emojipedia.org/food-drink/
 
