@@ -15,10 +15,10 @@ appearance:
 
 marketing:
   seo:
-    site_type: Person
+    site_type: Organization
     local_business_type: ''
-    org_name: 'PyKale'
-    description: 'Accessible machine learning from multiple sources for interdisciplinary research'
+    org_name: ''
+    description: 'Accessible machine learning from multiple sources for interdisciplinary research.'
     twitter: 'haipinglu'
   analytics:
     google_analytics: ''
@@ -37,7 +37,7 @@ header:
     show_language: false
     show_day_night: true
     show_search: true
-    highlight_active_link: true
+    highlight_active_link: false
 
 footer:
   copyright:
@@ -59,7 +59,7 @@ locale:
 
 features:
   syntax_highlighter:
-    enable: true
+    enable: false
     extra_languages:
       - r
       - latex
