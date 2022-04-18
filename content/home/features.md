@@ -50,3 +50,7 @@ feature:
 #  name: "Surfing"
 #  description: "90%"
 ---
+
+## What is PyKale?
+
+PyKale is a Python library providing accessible machine learning from multiple sources for interdisciplinary research, particularly multimodal learning and transfer learning, named collectively as **K**nowledge-**a**ware machine **le**arning (Kale).
