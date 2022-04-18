@@ -15,9 +15,9 @@ appearance:
 
 marketing:
   seo:
-    site_type: Organization
+    site_type: Person
     local_business_type: ''
-    org_name: ''
+    org_name: 'PyKale'
     description: 'Accessible machine learning from multiple sources for interdisciplinary research.'
     twitter: 'haipinglu'
   analytics:
