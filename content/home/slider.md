@@ -24,7 +24,7 @@ content:
         position: center
         color: '#666'
         brightness: 0.5
-        media: pykale_logo.png
+        media: pykale_logo.jpg
       link:
         icon: github
         icon_pack: fab
@@ -37,7 +37,7 @@ content:
         position: center
         color: '#555'
         brightness: 0.4
-        media: accessible_ml.png
+        media: accessible_ml.jpg
       link:
         icon: chalkboard
         icon_pack: fas
@@ -50,7 +50,7 @@ content:
         position: center
         color: '#666'
         brightness: 0.5
-        media: green_ml.png
+        media: green_ml.jpg
       link:
         icon: laptop-code
         icon_pack: fas
@@ -63,7 +63,7 @@ content:
         position: center
         color: '#333'
         brightness: 0.3
-        media: pipeline_api.png
+        media: pipeline_api.jpg
       link:
         icon: book
         icon_pack: fas
