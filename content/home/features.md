@@ -53,4 +53,4 @@ feature:
 
 ## What is PyKale?
 
-PyKale is a Python library providing accessible machine learning from multiple sources of data for interdisciplinary research, particularly multimodal learning and transfer learning, named collectively as **K**nowledge-**a**ware machine **le**arning (Kale).
+PyKale is a Python library providing accessible machine learning from multiple data sources for interdisciplinary research, particularly multimodal learning and transfer learning, named collectively as **K**nowledge-**a**ware machine **le**arning (Kale).
