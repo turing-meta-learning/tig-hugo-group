@@ -17,8 +17,8 @@ design:
 
 content:
   slides:
-    - title: 👋 PyKale
-      content: A library built upon PyTorch for multimodal learning and transfer learning from multiple data sources
+    - title: 👋 Turing IG on Meta Learning
+      content: Turing interest group on meta-learning for multimodal data
       align: center
       background:
         position: center
@@ -30,8 +30,8 @@ content:
         icon_pack: fab
         text: Explore Now
         url: https://github.com/pykale/pykale
-    - title: Accessible software 🗝️
-      content: 'Make abundant machine learning software accessible for interdisciplinary research'
+    - title: Under Construction 🚧
+      content: 'This website is under construction. Please check back later.'
       align: left
       background:
         position: center
@@ -43,30 +43,4 @@ content:
         icon_pack: fas
         text: Try Colab Tutorial
         url: https://colab.research.google.com/github/pykale/pykale/blob/main/examples/digits_dann_lightn/tutorial.ipynb
-    - title: ♻️ Green machine learning
-      content: Reduce repetitions, reuse resources, and recycle models to build PyKale
-      align: center
-      background:
-        position: center
-        color: '#666'
-        brightness: 0.5
-        media: green_ml.jpg
-      link:
-        icon: laptop-code
-        icon_pack: fas
-        text: Browse Examples
-        url: https://github.com/pykale/pykale/tree/main/examples
-    - title: Pipeline-based API ⛓️
-      content: 'Standardize all machine learning workflows into six steps'
-      align: center
-      background:
-        position: center
-        color: '#333'
-        brightness: 0.3
-        media: pipeline_api.jpg
-      link:
-        icon: book
-        icon_pack: fas
-        text: View API Docs
-        url: https://pykale.readthedocs.io/en/latest/index.html
 ---
