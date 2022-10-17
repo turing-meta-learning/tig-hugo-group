@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: PyKale # Website name
-baseURL: 'https://pykale.github.io/' # Website URL
+title: Turing IG - Meta Learning # Website name
+baseURL: 'https://turing-meta-learning.github.io/' # Website URL
 
 ############################
 ## LANGUAGE
