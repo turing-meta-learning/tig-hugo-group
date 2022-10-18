@@ -17,7 +17,7 @@ design:
 
 content:
   slides:
-    - title: 👋 Turing IG on Meta Learning
+    - title: 👋 Turing IG on Meta-learning
       content: Turing interest group on meta-learning for multimodal data
       align: center
       background:
