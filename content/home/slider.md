@@ -24,23 +24,23 @@ content:
         position: center
         color: '#666'
         brightness: 0.5
-        media: pykale_logo.jpg
+        # media: pykale_logo.jpg
       link:
         icon: github
         icon_pack: fab
-        text: Explore Now
-        url: https://github.com/pykale/pykale
+        text: Welcome to Explore
+        url: https://github.com/turing-meta-learning
     - title: Under Construction 🚧
-      content: 'This website is under construction. Please check back later.'
+      content: This website is under construction. 
       align: left
       background:
         position: center
         color: '#555'
         brightness: 0.4
-        media: accessible_ml.jpg
+        # media: accessible_ml.jpg
       link:
         icon: chalkboard
         icon_pack: fas
-        text: Try Colab Tutorial
-        url: https://colab.research.google.com/github/pykale/pykale/blob/main/examples/digits_dann_lightn/tutorial.ipynb
+        text: More to Come
+        url: https://github.com/turing-meta-learning
 ---

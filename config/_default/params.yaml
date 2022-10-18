@@ -17,8 +17,8 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: 'Education'
-    org_name: 'Accessible machine learning from multiple sources for interdisciplinary research.'
-    description: 'Accessible machine learning from multiple sources for interdisciplinary research.'
+    org_name: 'Turing interest group on meta-learning for multimodal data.'
+    description: 'Turing interest group on meta-learning for multimodal data.'
     twitter: 'haipinglu'
   analytics:
     google_analytics: ''
@@ -41,7 +41,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} PyKale.'  #' This work is licensed under {license}'
+    notice: '© {year} Meta-Learning Turing IG.'  #' This work is licensed under {license}'
     license:
       enable: false
       allow_derivatives: false

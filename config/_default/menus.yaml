@@ -10,20 +10,20 @@ main:
   # - name: News
   #   url: '#posts'
   #   weight: 20
-  - name: Docs
-    url: 'https://pykale.readthedocs.io/en/latest/'
-    weight: 30
-  - name: Discussions
-    url: 'https://github.com/pykale/pykale/discussions'
-    weight: 40
-  - name: Tutorials
-    url: 'https://pykale.readthedocs.io/en/latest/notebooks.html'
-    weight: 50
-  - name: Examples
-    url: 'https://github.com/pykale/pykale/tree/main/examples'
-    weight: 60
+  # - name: Docs
+  #   url: 'https://pykale.readthedocs.io/en/latest/'
+  #   weight: 30
+  # - name: Discussions
+  #   url: 'https://github.com/pykale/pykale/discussions'
+  #   weight: 40
+  # - name: Tutorials
+  #   url: 'https://pykale.readthedocs.io/en/latest/notebooks.html'
+  #   weight: 50
+  # - name: Examples
+  #   url: 'https://github.com/pykale/pykale/tree/main/examples'
+  #   weight: 60
   - name: GitHub
-    url: 'https://github.com/pykale/pykale'
+    url: 'https://github.com/turing-meta-learning'
     weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
