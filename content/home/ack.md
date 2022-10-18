@@ -50,4 +50,4 @@ subtitle = ""
  css_class = ""
 +++
 
-Developed mainly at the University of Sheffield, with partial support by a Wellcome Trust Innovator Award.
+Developed with support from the [Alan Turing Institute](https://www.turing.ac.uk/).
