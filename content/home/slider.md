@@ -26,7 +26,7 @@ content:
         brightness: 0.5
         # media: pykale_logo.jpg
       link:
-        icon: building-columns
+        icon: chalkboard
         icon_pack: fas
         text: Visit our Turing Page
         url: https://www.turing.ac.uk/research/interest-groups/meta-learning-multimodal-data
