@@ -26,9 +26,9 @@ content:
         brightness: 0.5
         # media: pykale_logo.jpg
       link:
-        icon: github
+        icon: building-columns
         icon_pack: fab
-        text: Visit our Turing page
+        text: Visit our Turing Page
         url: https://www.turing.ac.uk/research/interest-groups/meta-learning-multimodal-data
     - title: Under Construction 🚧
       content: This website is under construction. 
@@ -39,8 +39,8 @@ content:
         brightness: 0.4
         # media: accessible_ml.jpg
       link:
-        icon: chalkboard
-        icon_pack: fas
+        icon: github
+        icon_pack: fab
         text: Welcome to Contribute
         url: https://github.com/turing-meta-learning
 ---
