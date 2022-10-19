@@ -26,13 +26,13 @@ content:
         brightness: 0.5
         # media: pykale_logo.jpg
       link:
-        icon: house
-        icon_pack: fab
+        icon: building-columns
+        icon_pack: fas
         text: Visit our Turing Page
         url: https://www.turing.ac.uk/research/interest-groups/meta-learning-multimodal-data
     - title: Under Construction 🚧
       content: This website is under construction. 
-      align: left
+      align: center
       background:
         position: center
         color: '#555'
