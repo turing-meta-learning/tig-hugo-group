@@ -28,8 +28,8 @@ content:
       link:
         icon: github
         icon_pack: fab
-        text: Welcome to Explore
-        url: https://github.com/turing-meta-learning
+        text: Visit our Turing page
+        url: https://www.turing.ac.uk/research/interest-groups/meta-learning-multimodal-data
     - title: Under Construction 🚧
       content: This website is under construction. 
       align: left
@@ -41,6 +41,6 @@ content:
       link:
         icon: chalkboard
         icon_pack: fas
-        text: More to Come
+        text: Welcome to Contribute
         url: https://github.com/turing-meta-learning
 ---
